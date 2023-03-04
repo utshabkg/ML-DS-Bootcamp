@@ -1,1 +1,1 @@
-print("Bootcamp 1.0")
+print("Bootcamp 2.0")
