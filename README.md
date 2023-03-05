@@ -1,4 +1,4 @@
-### [Machine Learning & Data Science Bootcamp](https://www.facebook.com/codestudio4/photos/a.1932899003723256/1924432481236575/) Codes. Powered by [Code Studio](https://www.facebook.com/codestudio4) Academy. Courses covered in this Bootcamp:
+### [Machine Learning & Data Science Bootcamp](https://www.facebook.com/codestudio4/photos/a.1084735268539638/1962670440746112/) Code Snippets. Powered by [Code Studio](https://www.facebook.com/codestudio4) Academy. Courses covered in this Bootcamp:
 
 1. Python for Data Science & Machine Learning.
 
