@@ -4,7 +4,9 @@
 - Machine Learning
 - Deep Learning
 
-<img src="https://github.com/utshabkg/ML-DS-Bootcamp/blob/main/bootcamp%20poster.jpg" alt="Bootcamp Poster" width="200"/>
+<img src="https://github.com/utshabkg/ML-DS-Bootcamp/blob/main/bootcamp%20poster.jpg" alt="Bootcamp Offer Poster" width="200"/>
+<img src="https://github.com/utshabkg/ML-DS-Bootcamp/blob/main/bootcamp%20poster2.jpg" alt="Bootcamp Poster" width="200"/>
+<img src="https://github.com/utshabkg/ML-DS-Bootcamp/blob/main/orientation%20poster.jpg" alt="Bootcamp Poster" width="200"/>
 
 [![Author](https://img.shields.io/badge/author-utshabkg-red)](https://github.com/utshabkg/)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-blue.svg?style=flat)](https://github.com/utshabkg/ML-DS-Bootcamp/)
