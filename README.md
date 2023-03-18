@@ -1,4 +1,8 @@
-### [Machine Learning & Data Science Bootcamp](https://www.facebook.com/codestudio4/photos/a.1084735268539638/1962670440746112/) Code Snippets. Powered by [Code Studio](https://www.facebook.com/codestudio4) Academy. Courses covered in this Bootcamp:
+### [Machine Learning & Data Science Bootcamp](https://www.facebook.com/codestudio4/photos/a.1084735268539638/1962670440746112/) Code Snippets. Powered by [Code Studio](https://www.facebook.com/codestudio4) Academy. 
+
+<img src="https://github.com/utshabkg/ML-DS-Bootcamp/blob/main/posters/youtube%20banner.png" alt="Bootcamp Poster" width="500"/>
+
+#### Courses covered in this Bootcamp:
 
 1. Python for Data Science & Machine Learning.
 
@@ -19,9 +23,9 @@
 Check the [Course Outlines](https://forms.gle/WtJXecHmUhPiSAEg7).
 
 <div style="display:flex; flex-direction: row;">
-<img src="https://github.com/utshabkg/ML-DS-Bootcamp/blob/main/bootcamp%20poster.jpg" alt="Bootcamp Offer Poster" width="200"/>
-<img src="https://github.com/utshabkg/ML-DS-Bootcamp/blob/main/bootcamp%20poster2.jpg" alt="Bootcamp Poster" width="200"/>
-<img src="https://github.com/utshabkg/ML-DS-Bootcamp/blob/main/orientation%20poster.jpg" alt="Bootcamp Poster" width="200"/>
+<img src="https://github.com/utshabkg/ML-DS-Bootcamp/blob/main/posters/bootcamp%20poster.jpg" alt="Bootcamp Offer Poster" width="200"/>
+<img src="https://github.com/utshabkg/ML-DS-Bootcamp/blob/main/posters/bootcamp%20poster2.jpg" alt="Bootcamp Poster" width="200"/>
+<img src="https://github.com/utshabkg/ML-DS-Bootcamp/blob/main/posters/orientation%20poster.jpg" alt="Bootcamp Poster" width="200"/>
 </div>
 
 [![Author](https://img.shields.io/badge/author-utshabkg-red)](https://github.com/utshabkg/)
